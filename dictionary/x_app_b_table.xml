@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="cmdb_ci_hardware" label="APP_B Table" max_length="40" name="x_app_b_table" type="collection"/>
+</database>
